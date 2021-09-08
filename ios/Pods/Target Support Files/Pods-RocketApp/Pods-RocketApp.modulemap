@@ -1,0 +1,6 @@
+module Pods_RocketApp {
+  umbrella header "Pods-RocketApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
