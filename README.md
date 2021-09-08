@@ -9,7 +9,9 @@
 ### INTRODUCTION
 
 Rocket app created with React Native, that shows Rockets, Crew Members and selected Crew Member data.
-![Rocket Screen](./screenshots/rocketsScreen.jpg)
+<img src="./screenshots/rocketsScreen.jpg" alt="rocket screen" width="200"/>
+<img src="./screenshots/crewMembersScreen.jpg" alt="crew members screen" width="200"/>
+<img src="./screenshots/crewMemberScreen.jpg" alt="crew member screen" width="200"/>
 
 ### REQUIREMENTS
 
